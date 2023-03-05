@@ -1,2 +1,4 @@
 # devops27
-Aula de github
+Aula inaugural
+primeira aula de github
+repositorio remoto no github
